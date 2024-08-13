@@ -1,0 +1,3 @@
+<?php //24ed334316ff710bcf697c8d126b5d0b
+
+return [PHP_INT_MAX, 'controllers/closeable_controller.js'];
